@@ -1,6 +1,6 @@
-# React Interview Questions & Answers
+﻿# React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated.
 
 ### Table of Contents
 
@@ -3129,7 +3129,7 @@
      ```javascript
      this.props.history.push({
        pathname: '/template',
-       search: '?name=sudheer',
+       search: '?name=sudha',
        state: { detail: response.data }
      })
      ```
