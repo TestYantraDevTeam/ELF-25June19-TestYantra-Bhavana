@@ -1,6 +1,6 @@
-# Angular Interview Questions & Answers
+﻿# Angular Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me.
 
 ### Table of Contents
 
@@ -252,7 +252,7 @@
         return "Hello, " + person;
     }
 
-    let user = "Sudheer";
+    let user = "Sudha";
 
     document.body.innerHTML = greeter(user);
     ```
